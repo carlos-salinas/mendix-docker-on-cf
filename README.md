@@ -1,5 +1,5 @@
 # How to deploy a Dockerized Mendix app in Cloud Foundry
-This a project contains a scripts which shows how to easily deploy a Mendix app on CF using Docker.
+This project contains a script which shows how to easily deploy a Mendix app in CF using Docker.
 
 ## Requisities
 * IBM bluemix account
@@ -9,4 +9,4 @@ This a project contains a scripts which shows how to easily deploy a Mendix app 
 ``` source deploy.sh <APP_NAME>```
 
 ## Limitations
-The script is tested using IBM Bluemix and ```ElephantSQL```. Although, it should compatible with any ```CF``` installation.
+The script is tested using IBM Bluemix and ```ElephantSQL```. Although, it should be compatible with any ```CF``` installation.
